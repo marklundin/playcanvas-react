@@ -1,5 +1,11 @@
 # @playcanvas/blocks
 
+## 0.1.2
+
+### Patch Changes
+
+- b019445: Ensure SplatViewer is initialized without anti-aliasing
+
 ## 0.1.1
 
 ### Patch Changes
